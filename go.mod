@@ -1,6 +1,6 @@
 module github.com/snyk/snyk-iac-rules
 
-go 1.19
+go 1.24
 
 require (
 	github.com/open-policy-agent/opa v0.53.0
@@ -44,7 +44,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0 // indirect
 	github.com/hashicorp/hcl/v2 v2.15.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/klauspost/compress v1.16.5 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/moby/locker v1.0.1 // indirect
